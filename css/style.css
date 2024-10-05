@@ -1,0 +1,19 @@
+  *{
+    padding: 0;
+    margin:0;
+   }
+article {
+    background-color: aqua;
+}
+
+nav{
+background-color: hsl(258, 81%, 8%);
+}
+.table-brown {
+    background-color: rgb(48, 13, 247);  
+    color: hwb(0 3% 92%);
+    text-align: center;
+}
+ tr,td{
+    text-align: justify;
+ }
